@@ -1,2 +1,8 @@
 # git-recipes
-Git Recipes
+
+## About
+Git recipes to common problems.
+
+## Problems
+
+* [Remove a directory and its content from git's history](https://github.com/matt77hias/git-recipes/blob/master/src/remove-from-history.sh)
