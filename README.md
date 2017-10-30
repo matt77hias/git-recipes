@@ -1,5 +1,7 @@
 # git-recipes
 
+<p align="center"><img src="res/git.png"></p>
+
 ## About
 Git recipes to common problems.
 
