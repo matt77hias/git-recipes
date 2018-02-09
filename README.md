@@ -7,5 +7,5 @@ Git recipes to common problems.
 
 ## Problems
 
-* [Create a tag](https://github.com/matt77hias/git-recipes/blob/master/src/create-tag.sh)
+* [Create one or more tags](https://github.com/matt77hias/git-recipes/blob/master/src/create-tag.sh)
 * [Remove a directory and its content from git's history](https://github.com/matt77hias/git-recipes/blob/master/src/remove-from-history.sh)
